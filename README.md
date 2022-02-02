@@ -3,7 +3,29 @@
 ### About Me
 
 I am [Ashraful Islam](https://github.com/ashraful-islam), a full-stack developer focused on general backend developments.
-Some of the common tools of trade I use freqently are [Node.js](https://nodejs.org), [Python](https://python.org), [Go](https://golang.org).
+
+### Tools of Trade
+
+Following are the common techs I have used to build commercial software:
+
+- [Python](https://python.org)
+- [Node.js](https://nodejs.org)
+- [Go](https://golang.org)
+- [RabbitMQ](https://www.rabbitmq.com/)
+- [Docker](https://docker.com)
+- [MongoDb](https://www.mongodb.com/)
+- [PHP](https://www.php.net/)
+
+Following frameworks were also useful when I worked for the commercial projects:
+
+- [Flask](https://flask.palletsprojects.com/en/2.0.x/)
+- [Express.js](https://expressjs.com/)
+- [Gorilla Toolkit](https://www.gorillatoolkit.org/)
+- [Symphony](https://symfony.com/)
+- [Vue.js](https://vuejs.org/)
+- [React.js](https://reactjs.org/)
+
+I have used several other techs like [Java](https://www.java.com/en/), [Crystal](https://crystal-lang.org/), [Kafka](https://kafka.apache.org/), [Cassandra](https://cassandra.apache.org) etc. in academic context only.
 
 ### Professional Development
 
@@ -19,19 +41,3 @@ The meaning of life is apparently [42](https://en.wikipedia.org/wiki/The_Hitchhi
 ### Contact
 
 If you want to contact me or have questions or simply wants to hang-out, write to me hi[AT]aislam[DOT]dev
-
-
-<!--
-**ashraful-islam/ashraful-islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
