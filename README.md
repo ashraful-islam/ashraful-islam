@@ -2,30 +2,7 @@
 
 ### About Me
 
-I am [Ashraful Islam](https://github.com/ashraful-islam), a full-stack developer focused on general backend developments.
-
-### Tools of Trade
-
-Following are the common techs I have used to build commercial software:
-
-- [Python](https://python.org)
-- [Node.js](https://nodejs.org)
-- [Go](https://golang.org)
-- [RabbitMQ](https://www.rabbitmq.com/)
-- [Docker](https://docker.com)
-- [MongoDb](https://www.mongodb.com/)
-- [PHP](https://www.php.net/)
-
-Following frameworks were also useful when I worked for the commercial projects:
-
-- [Flask](https://flask.palletsprojects.com/en/2.0.x/)
-- [Express.js](https://expressjs.com/)
-- [Gorilla Toolkit](https://www.gorillatoolkit.org/)
-- [Symphony](https://symfony.com/)
-- [Vue.js](https://vuejs.org/)
-- [React.js](https://reactjs.org/)
-
-I have used several other techs like [Java](https://www.java.com/en/), [Crystal](https://crystal-lang.org/), [Kafka](https://kafka.apache.org/), [Cassandra](https://cassandra.apache.org) etc. in academic context only.
+I am [Ashraful Islam](https://github.com/ashraful-islam), a [Software Engineer](https://en.wikipedia.org/wiki/Software_engineering) based in Hamburg, Germany(locally known as Deutschland). My origin is South Asia, in the little beautiful green country, Bangladesh.
 
 ### Professional Development
 
