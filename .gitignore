@@ -1,0 +1,8 @@
+**/.DS_Store
+
+# Ignore local builds
+
+public/**
+!public/.gitkeep
+
+resources/**
